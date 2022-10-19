@@ -68,6 +68,14 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 
 .placeholder{
     color: #F9FAF8;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: #787e8a;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .container{
