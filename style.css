@@ -9,17 +9,22 @@
     background-color:#1F2937;
     height: 300px;
     
+    
 
 }
 
 .logo-title{
-font-size: 24px;
-color: #F9FAF8;
+ font-size: 24px;
+ color: #F9FAF8;
+
+ 
 }
 
 .nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    
     
 }
 
@@ -27,9 +32,12 @@ color: #F9FAF8;
     display: flex;
     gap: 10px;
     text-decoration: none;
+    
+
+    
 }
 
-a:link,a:visited,a:hover,a:active{
+a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
  font-size: 18px;
  color: #E5E7EB;
  text-decoration: none;
@@ -40,5 +48,26 @@ a:link,a:visited,a:hover,a:active{
 
     font-size: 48px;
     font-weight: bolder;
-    color:#F9FAF8
+    color:#F9FAF8;
+    
+}
+
+.sign-up{
+    color:#F9FAF8 ;
+    background-color:#3882F6 ;
+    width: 70px;
+    border:none;
+    border-radius: 5px;
+    height: 20px;
+}
+
+
+
+.placeholder{
+    color: #F9FAF8;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
 }
