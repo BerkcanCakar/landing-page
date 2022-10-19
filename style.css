@@ -26,4 +26,11 @@ color: #F9FAF8;
 .links{
     display: flex;
     gap: 10px;
+    text-decoration: none;
+}
+
+a:link,a:visited,a:hover,a:active{
+ font-size: 18px;
+ color: #E5E7EB;
+ text-decoration: none;
 }
