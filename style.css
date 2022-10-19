@@ -18,6 +18,7 @@
  color: #F9FAF8;
 
  
+ margin-left: 100px;
 }
 
 .nav{
@@ -32,6 +33,8 @@
     display: flex;
     gap: 10px;
     text-decoration: none;
+    margin-right: 100px;
+    
     
 
     
