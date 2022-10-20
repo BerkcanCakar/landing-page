@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-
+/* HEADER SECTİON */
 .header{
     background-color:#1F2937;
     height: 500px;
@@ -52,7 +52,13 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
     font-size: 48px;
     font-weight: bolder;
     color:#F9FAF8;
+  
     
+}
+
+.title-section{
+    margin-top: 100px;
+    margin-left: 100px;
 }
 
 .sign-up{
@@ -81,4 +87,7 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 .container{
     display: flex;
     justify-content: space-between;
+
 }
+
+/*SECTION PART*/
