@@ -178,4 +178,29 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 .article{
 
     background-color:#E5E7EB;
+    height: 400px;
+    text-align: center;
+    position: relative;
+
 }
+
+.quote{
+    font-size: 36px;
+    font-style:light italic;
+    color: #1F2937;  
+    display: inline-block;
+    margin-top: 130px;
+    
+}
+
+.author{
+   
+position:absolute;
+left: 950px;
+bottom: 105px;
+font-size: 20px;
+font-weight: bold;
+}
+
+
+
