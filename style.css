@@ -92,6 +92,9 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 
 /*SECTION PART*/
 
+.section{
+    height: 200px;
+}
 .section-title{
     font-size: 36px;
     font-weight: bolder;
