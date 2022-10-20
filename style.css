@@ -93,7 +93,7 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 /*SECTION PART*/
 
 .section{
-    height: 200px;
+    height: 400px;
 }
 .section-title{
     font-size: 36px;
@@ -174,3 +174,8 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 
 
 /*ARTICLE SECTİON*/
+
+.article{
+
+    background-color:#E5E7EB;
+}
