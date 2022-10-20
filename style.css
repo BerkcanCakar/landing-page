@@ -207,5 +207,12 @@ font-weight: bold;
 /*FOOTER SECTION*/
 
 .footer{
-    height: 300px;
+    height: 200px;
+}
+
+.blue-section{
+    background-color: #3882F6;
+    width:700px;
+   display: flex;
+   justify-content: space-between;
 }
