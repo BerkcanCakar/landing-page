@@ -207,7 +207,7 @@ font-weight: bold;
 /*FOOTER SECTION*/
 
 .footer{
-    height: 200px;
+    height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -239,6 +239,7 @@ font-weight: bold;
 }
 
 .sign-up{
-   
+   width: 100px;
+   height: 30px;
     border: 2px white solid;
 }
