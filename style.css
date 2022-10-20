@@ -101,52 +101,52 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 }
 
 .box-1{
-    color: #F9FAF8;
+    
 
-  border-top: 5px blue solid;
-  border-right: 5px blue solid;
-  border-left: 5px blue solid;
-  border-bottom: 5px blue solid;
-  border-radius: 5px;
-    width: 150px;
-    height: 150px;
+
+
+    border-top: 5px #3882F6 solid;
+    border-right: 5px #3882F6 solid;
+    border-left: 5px #3882F6 solid;
+    border-bottom: 5px #3882F6 solid;
+    border-radius: 10px;
+      width: 150px;
+      height: 150px;
     
 }
 
 .box-2{
-    color: #F9FAF8;
 
-  border-top: 5px blue solid;
-  border-right: 5px blue solid;
-  border-left: 5px blue solid;
-  border-bottom: 5px blue solid;
-  border-radius: 5px;
-    width: 150px;
-    height: 150px;
+    border-top: 5px #3882F6 solid;
+    border-right: 5px #3882F6 solid;
+    border-left: 5px #3882F6 solid;
+    border-bottom: 5px #3882F6 solid;
+    border-radius: 10px;
+      width: 150px;
+      height: 150px;
     
 }
 
 .box-3{
-    color: #F9FAF8;
-
-  border-top: 5px blue solid;
-  border-right: 5px blue solid;
-  border-left: 5px blue solid;
-  border-bottom: 5px blue solid;
-  border-radius: 5px;
-    width: 150px;
-    height: 150px;
     
+
+    border-top: 5px #3882F6 solid;
+    border-right: 5px #3882F6 solid;
+    border-left: 5px #3882F6 solid;
+    border-bottom: 5px #3882F6 solid;
+    border-radius: 10px;
+      width: 150px;
+      height: 150px;
 }
 
 .box-4{
-    color: #F9FAF8;
+    
 
-  border-top: 5px blue solid;
-  border-right: 5px blue solid;
-  border-left: 5px blue solid;
-  border-bottom: 5px blue solid;
-  border-radius: 5px;
+  border-top: 5px #3882F6 solid;
+  border-right: 5px #3882F6 solid;
+  border-left: 5px #3882F6 solid;
+  border-bottom: 5px #3882F6 solid;
+  border-radius: 10px;
     width: 150px;
     height: 150px;
     
