@@ -99,3 +99,55 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
     text-align: center;
     margin-top: 30px;
 }
+
+.box-1{
+    color: #F9FAF8;
+
+  border-top: 5px blue solid;
+  border-right: 5px blue solid;
+  border-left: 5px blue solid;
+  border-bottom: 5px blue solid;
+  border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    
+}
+
+.box-2{
+    color: #F9FAF8;
+
+  border-top: 5px blue solid;
+  border-right: 5px blue solid;
+  border-left: 5px blue solid;
+  border-bottom: 5px blue solid;
+  border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    
+}
+
+.box-3{
+    color: #F9FAF8;
+
+  border-top: 5px blue solid;
+  border-right: 5px blue solid;
+  border-left: 5px blue solid;
+  border-bottom: 5px blue solid;
+  border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    
+}
+
+.box-4{
+    color: #F9FAF8;
+
+  border-top: 5px blue solid;
+  border-right: 5px blue solid;
+  border-left: 5px blue solid;
+  border-bottom: 5px blue solid;
+  border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    
+}
