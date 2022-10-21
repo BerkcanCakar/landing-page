@@ -208,7 +208,7 @@ font-weight: bold;
 /*FOOTER SECTION*/
 
 .footer{
-    height: 300px;
+    height: 500px;
     display: flex;
     flex-direction: column;
  
