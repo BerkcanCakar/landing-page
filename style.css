@@ -207,35 +207,3 @@ font-weight: bold;
 
 /*FOOTER SECTION*/
 
-.footer{
-    height: 500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.blue-section{
-    background-color: #3882F6;
-    
-    width: 1000px;
-    height: 150px;
-   display: flex;
-   justify-content: space-between;
-   align-items: center
-   ;
- 
-}
-
-
-
-
-.footer-button{
-   width: 100px;
-   height: 30px;
-    border: 2px white solid;
-}
-
-.bottom{
-    background-color: #1F2937;
-}
