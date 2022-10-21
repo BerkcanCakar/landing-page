@@ -241,3 +241,13 @@ border-radius: 10px;
     flex: 1;
     flex-direction: column;
 }
+
+
+.footer-button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px #F9FAF8 solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
