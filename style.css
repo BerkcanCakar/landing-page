@@ -62,12 +62,13 @@ a:link,a:visited,a:hover,a:active ,.hero-secondary-text{
 }
 
 .sign-up{
+    margin-top: 10px;
     color:#F9FAF8 ;
     background-color:#3882F6 ;
-    width: 70px;
-    border:none;
+    width: 100px;
+   border: 1px #3882F6 solid;
     border-radius: 5px;
-    height: 20px;
+    height: 30px;
 }
 
 
@@ -223,23 +224,18 @@ font-weight: bold;
    justify-content: space-between;
    align-items: center
    ;
+ 
 }
 
-/*
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-}
-*/
 
-.footer-title{
-   
-}
 
-.sign-up{
+
+.footer-button{
    width: 100px;
    height: 30px;
     border: 2px white solid;
+}
+
+.bottom{
+    background-color: #1F2937;
 }
