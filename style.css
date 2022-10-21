@@ -9,7 +9,7 @@
     background-color:#1F2937;
     height: 500px;
     
-    
+
 
 }
 
@@ -25,7 +25,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    position:  relative;
+    top:20px;
     
 }
 
