@@ -256,7 +256,7 @@ border-radius: 10px;
 
 .footer-title{
 
-    font-size: 36px;
+    font-size: 25px;
     font-weight: bolder;
     color: #F9FAF8;
 }
@@ -265,4 +265,7 @@ border-radius: 10px;
 .footer-text{
     color: #E5E7EB;
 
+}
+.text{
+    margin-left: 80px;
 }
