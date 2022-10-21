@@ -209,6 +209,9 @@ font-weight: bold;
 
 .footer{
     height: 300px;
+    display: flex;
+    flex-direction: column;
+ 
 }
 
 .bottom{
@@ -218,4 +221,21 @@ font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.blue-section{
+    background-color:#3882F6 ;
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 700px;
+   
+}
+
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
 }
