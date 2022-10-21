@@ -250,4 +250,18 @@ border-radius: 10px;
     width: 100px;
     height: 30px;
     border-radius: 5px;
+
+}
+
+.footer-title{
+
+    font-size: 36px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+
+.footer-text{
+    color: #F9FAF8;
+
 }
