@@ -207,6 +207,9 @@ font-weight: bold;
 
 /*FOOTER SECTION*/
 
+.footer{
+    height: 300px;
+}
 
 .bottom{
     background-color: #1F2937;
